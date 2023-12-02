@@ -10,4 +10,4 @@ MAKE A BACKUP BEFORE DOING THIS!!
 
 Use this calibration files ENTIRELY at your own risk. This files is totally experimental!!
 
-![Calibration](images/calibration_changes.png)
+![Calibration](calibration_changes.png)
