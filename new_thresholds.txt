@@ -1,0 +1,132 @@
+UHF Squelch Open RSSI Thresholds:
+SQL 0: -155.0
+SQL 1: -138.0
+SQL 2: -134.0
+SQL 3: -131.0
+SQL 4: -127.0
+SQL 5: -124.0
+SQL 6: -120.0
+SQL 7: -116.0
+SQL 8: -113.0
+SQL 9: -109.0
+UHF Squelch Close RSSI Thresholds:
+SQL 0: -157.5
+SQL 1: -141.0
+SQL 2: -137.0
+SQL 3: -133.0
+SQL 4: -129.0
+SQL 5: -126.0
+SQL 6: -122.0
+SQL 7: -118.0
+SQL 8: -114.0
+SQL 9: -110.0
+UHF Squelch Open Noise Thresholds:
+SQL 0: 90
+SQL 1: 53
+SQL 2: 48
+SQL 3: 44
+SQL 4: 40
+SQL 5: 36
+SQL 6: 32
+SQL 7: 28
+SQL 8: 24
+SQL 9: 20
+UHF Squelch Close Noise Thresholds:
+SQL 0: 100
+SQL 1: 56
+SQL 2: 52
+SQL 3: 47
+SQL 4: 43
+SQL 5: 39
+SQL 6: 35
+SQL 7: 31
+SQL 8: 27
+SQL 9: 23
+UHF Squelch Close Glitch Thresholds:
+SQL 0: 90
+SQL 1: 32
+SQL 2: 24
+SQL 3: 20
+SQL 4: 17
+SQL 5: 14
+SQL 6: 11
+SQL 7: 8
+SQL 8: 3
+SQL 9: 2
+UHF Squelch Open Glitch Thresholds:
+SQL 0: 100
+SQL 1: 30
+SQL 2: 21
+SQL 3: 17
+SQL 4: 14
+SQL 5: 11
+SQL 6: 8
+SQL 7: 5
+SQL 8: 5
+SQL 9: 4
+VHF Squelch Open RSSI Thresholds:
+SQL 0: -135.0
+SQL 1: -121.5
+SQL 2: -119.0
+SQL 3: -116.0
+SQL 4: -113.0
+SQL 5: -110.0
+SQL 6: -107.0
+SQL 7: -104.0
+SQL 8: -101.0
+SQL 9: -98.5
+VHF Squelch Close RSSI Thresholds:
+SQL 0: -140.0
+SQL 1: -125.0
+SQL 2: -122.0
+SQL 3: -119.0
+SQL 4: -116.0
+SQL 5: -113.0
+SQL 6: -109.0
+SQL 7: -106.0
+SQL 8: -103.0
+SQL 9: -100.0
+VHF Squelch Open Noise Thresholds:
+SQL 0: 65
+SQL 1: 58
+SQL 2: 52
+SQL 3: 46
+SQL 4: 41
+SQL 5: 37
+SQL 6: 33
+SQL 7: 28
+SQL 8: 24
+SQL 9: 22
+VHF Squelch Close Noise Thresholds:
+SQL 0: 70
+SQL 1: 65
+SQL 2: 57
+SQL 3: 51
+SQL 4: 45
+SQL 5: 41
+SQL 6: 37
+SQL 7: 32
+SQL 8: 28
+SQL 9: 25
+VHF Squelch Close Glitch Thresholds:
+SQL 0: 90
+SQL 1: 32
+SQL 2: 23
+SQL 3: 18
+SQL 4: 15
+SQL 5: 10
+SQL 6: 9
+SQL 7: 8
+SQL 8: 7
+SQL 9: 4
+VHF Squelch Open Glitch Thresholds:
+SQL 0: 100
+SQL 1: 60
+SQL 2: 45
+SQL 3: 30
+SQL 4: 20
+SQL 5: 15
+SQL 6: 13
+SQL 7: 12
+SQL 8: 11
+SQL 9: 8
